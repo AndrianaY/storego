@@ -1,0 +1,1 @@
+module github/andrianay/storego/consignmentservice
